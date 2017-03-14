@@ -12,10 +12,10 @@ Implemented CommandsCommand	Flag / Param	Meaning
 |   |-l	 |long listing|
 |    |-h|	human readable sizes|
 |mkdir|   |		make a directory|
-|cd|	directory|	change to named directory|
+|cd|	| directory |	change to named directory|
 |cd	| |	change to home-directory|
-~	change to home-directory
-..	change to parent directory
+|  | ~	| change to home-directory|
+| |..|	change to parent directory|
 pwd		display the path of the current directory
 Command	Params	Meaning
 cp	file1 file2	copy file1 and call it file2
