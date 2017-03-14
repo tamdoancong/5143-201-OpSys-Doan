@@ -4,7 +4,8 @@ Shell Project
 Date: 21 Feb 2017
 
 Implemented CommandsCommand	Flag / Param	Meaning
-ls		list files and directories
+|Command	|Flag / Param|	Meaning|
+|ls |ist files and directories
 -a	list all show hidden files
 -l	long listing
 -h	human readable sizes
@@ -37,8 +38,6 @@ Command	Meaning
 history	show a history of all your commands
 !x	this loads command x from your history so you can run it again
 chmod xxx	change modify permission
-
-
 https://docs.python.org/2.7/
 http://stackoverflow.com/
 http://www.diveintopython.net/toc/index.html
