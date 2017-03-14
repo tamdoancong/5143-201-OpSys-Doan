@@ -17,8 +17,9 @@ Implemented CommandsCommand	Flag / Param	Meaning
 |  | ~	| change to home-directory|
 | |..|	change to parent directory|
 |pwd|		|display the path of the current directory|
-Command	Params	Meaning
-cp	file1 file2	copy file1 and call it file2
+|Command|	Params|	Meaning|
+|-------|--------|--------|
+|cp| 	file1 file2|	copy file1 and call it file2|
 mv	file1 file2	move or rename file1 to file2
 rm	file	remove a file
 rmdir	directory	remove a directory
