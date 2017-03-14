@@ -5,7 +5,7 @@ Date: 21 Feb 2017
 
 Implemented CommandsCommand	Flag / Param	Meaning
 
-| Command	| Flag / Param |	Meaning |
+| Command	| Flag / Param |	Meaning                  |
 | -----| ----| --------------------- |
 | ls |  | list files and directories |
 |    | -a	| list all show hidden files |
@@ -16,7 +16,7 @@ Implemented CommandsCommand	Flag / Param	Meaning
 |cd	| |	change to home-directory|
 |  | ~	| change to home-directory|
 | |..|	change to parent directory|
-pwd		display the path of the current directory
+|pwd|		|display the path of the current directory|
 Command	Params	Meaning
 cp	file1 file2	copy file1 and call it file2
 mv	file1 file2	move or rename file1 to file2
