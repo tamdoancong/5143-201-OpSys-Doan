@@ -4,9 +4,10 @@ Shell Project
 Date: 21 Feb 2017
 
 Implemented CommandsCommand	Flag / Param	Meaning
+
 | Command	| Flag / Param |	Meaning |
-| --------- | ------------ |--------- |
-| ls |  | list files and directories|
+| --------- | ------------ | --------- |
+| ls |  | list files and directories |
 |    | -a	| list all show hidden files |
 |   |-l	 |long listing|
 |    |-h|	human readable sizes|
