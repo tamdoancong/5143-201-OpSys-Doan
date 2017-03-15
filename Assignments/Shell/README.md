@@ -50,8 +50,11 @@ Implemented CommandsCommand	Flag / Param	Meaning
 
 
 https://docs.python.org/2.7/
+
 http://stackoverflow.com/
+
 http://www.diveintopython.net/toc/index.html
+
 Group Members
 
 | Name     | Email   | Github Username |
