@@ -30,17 +30,15 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 capture
 
-| ##Files in project: | |
-------------------------------
+ ##Files in project
 
-| Files |   |
-| simulation.py| |
-accounting.py
-clock.py
-cpu.py
-fifo.py
-memory.py
-process.py
-semaphore.py
-sim_components.py
+1.simulation.py
+2.accounting.py
+3.clock.py
+4.cpu.py
+5.fifo.py
+6.memory.py
+7.process.py
+8.semaphore.py
+9.sim_components.py
 All of the files listed above are included in the project.
