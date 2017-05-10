@@ -30,7 +30,8 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 capture
 
-| Files in project:|
+| ##Files in project: |
+------------------------------
 
 | Files |
 | simulation.py|
