@@ -28,47 +28,14 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 ## Participation Pie Chart:
 
-<html>
-  <head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
-
-      function drawChart() {
-
-        var data = google.visualization.arrayToDataTable([
-          ['Task', 'Hours per Day'],
-          ['Work',     11],
-          ['Eat',      2],
-          ['Commute',  2],
-          ['Watch TV', 2],
-          ['Sleep',    7]
-        ]);
-
-        var options = {
-          title: 'My Daily Activities'
-        };
-
-        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
-
-        chart.draw(data, options);
-      }
-    </script>
-  </head>
-  <body>
-    <div id="piechart" style="width: 900px; height: 500px;"></div>
-  </body>
-</html>
-
-
-
-
-
-
-
-
-
+# Pie Chart with Percentages
+slices <- c(10, 12, 4, 16, 8) 
+lbls <- c("US", "UK", "Australia", "Germany", "France")
+pct <- round(slices/sum(slices)*100)
+lbls <- paste(lbls, pct) # add percents to labels 
+lbls <- paste(lbls,"%",sep="") # ad % to labels 
+pie(slices,labels = lbls, col=rainbow(length(lbls)),
+  	main="Pie Chart of Countries")
 
 
 
