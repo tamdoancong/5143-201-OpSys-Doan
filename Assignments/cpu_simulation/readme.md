@@ -28,7 +28,7 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 ## Participation Pie Chart:
 
-! https://cloud.githubusercontent.com/assets/25235118/25836729/c60c8000-344e-11e7-9910-6d866b798ed5.JPG
+! ( https://cloud.githubusercontent.com/assets/25235118/25836729/c60c8000-344e-11e7-9910-6d866b798ed5.JPG)
 
 
 
