@@ -28,14 +28,7 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 ## Participation Pie Chart:
 
-# Pie Chart with Percentages
-slices <- c(10, 12, 4, 16, 8) 
-lbls <- c("US", "UK", "Australia", "Germany", "France")
-pct <- round(slices/sum(slices)*100)
-lbls <- paste(lbls, pct) # add percents to labels 
-lbls <- paste(lbls,"%",sep="") # ad % to labels 
-pie(slices,labels = lbls, col=rainbow(length(lbls)),
-  	main="Pie Chart of Countries")
+!https://cloud.githubusercontent.com/assets/25235118/25836729/c60c8000-344e-11e7-9910-6d866b798ed5.JPG
 
 
 
