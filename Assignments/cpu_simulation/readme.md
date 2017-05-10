@@ -28,7 +28,7 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 ## Participation Pie Chart:
 
-![Alt text](\Users\QT\Desktop\OPSys5143\c60c8000-344e-11e7-9910-6d866b798ed5.JPG)
+![Alt text] (\Users\QT\Desktop\OPSys5143\c60c8000-344e-11e7-9910-6d866b798ed5.JPG)
 
 
 
