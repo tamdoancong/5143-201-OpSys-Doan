@@ -28,6 +28,19 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 ## Participation Pie Chart:
 
+import PieChart from 'react-simple-pie-chart';
+<PieChart
+  slices={[
+    {
+      color: '#f00',
+      value: 10,
+    },
+    {
+      color: '#0f0',
+      value: 20,
+    },
+  ]}
+/>
 
 
 
