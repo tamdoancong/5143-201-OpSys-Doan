@@ -14,26 +14,26 @@ Codes of constructor of Simulator class, perform_io function of Simulator class,
 
 Time spent working on project: 5 days
 
-##Gyaneshwar Malba:
+## Gyaneshwar Malba:
 
 putJobsOnReadyQueue function of Simulator class, changing of Semaphore and SemaphorePool classes, part of output formating of display_status function of Simulator class
 
 Time spent working on project: 10 days
 
-##Tam Doan:
+## Tam Doan:
 
 new_process fucntion of Simulator class, isFinished fucntion of Simulator class, part of output formating of display_status function of Simulator class
 
 Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
-Participation Pie Chart:
+# Participation Pie Chart:
 
 capture
 
-Files in project:
+| Files in project:|
 
-Files
-simulation.py
+| Files |
+| simulation.py|
 accounting.py
 clock.py
 cpu.py
