@@ -10,19 +10,19 @@ Group Members
 
 ### Ali Ahmadiadl:
 
-Codes of constructor of Simulator class, perform_io function of Simulator class, sem_acquire and sem_release functions of Simulator class
+He does codes of constructor of Simulator class, perform_io function of Simulator class, sem_acquire and sem_release functions of Simulator class and fix other members' problems. 
 
 Time spent working on project: 5 days
 
 ### Gyaneshwar Malba:
 
-putJobsOnReadyQueue function of Simulator class, changing of Semaphore and SemaphorePool classes, part of output formating of display_status function of Simulator class
+He does putJobsOnReadyQueue function of Simulator class, changing of Semaphore, SemaphorePool classes, and part of output formating of display_status function of Simulator class.
 
 Time spent working on project: 10 days
 
 ### Tam Doan:
 
-new_process fucntion of Simulator class, isFinished fucntion of Simulator class, part of output formating of display_status function of Simulator class
+I do new_process fucntion of Simulator class, isFinished fucntion of Simulator class, and part of output formating of display_status function of Simulator class
 
 Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
@@ -35,7 +35,7 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 
 
-### Files in project
+### Files in project:
 
 1. simulation.py
 2. accounting.py
