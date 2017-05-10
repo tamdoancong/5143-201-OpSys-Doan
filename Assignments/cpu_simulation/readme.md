@@ -1,9 +1,11 @@
 Group Members
 
-Name	Email	Github Username
-Ali Ahmadiadl	a.ahmadi.adl@gmail.com	ali-a-adl
-Gyaneshwar Malba	gyaneshwar.malba13@gmail.com	Gyaneshwar09
-Tam Doan      	tamdoancong@yahoo.com	tamdoancong 
+| Name     | Email   | Github Username |
+|----------|---------|-----------------|
+| Tam Doan   |  tamdoancong@yahoo.com | tamdoancong |
+| Ali Ahmadiadl   | a.ahmadi.adl@gmail.com | ali-a-adl  |
+| Gyaneshwar Malba   | gyaneshwar.malba13@gmail.com | Gyaneshwar09  |
+ 
 Additional Code Attribution
 
 Ali Ahmadiadl:
@@ -22,7 +24,7 @@ Tam Doan:
 
 new_process fucntion of Simulator class, isFinished fucntion of Simulator class, part of output formating of display_status function of Simulator class
 
-Time spent working on project: 20 days (I  finish it with helping from Ali)
+Time spent working on project: 20 days (I  finish my part with helping from Ali)
 
 Participation Pie Chart:
 
