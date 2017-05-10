@@ -40,5 +40,5 @@ Time spent working on project: 20 days (I  finish my part with helping from Ali)
 6. memory.py
 7. process.py
 8. semaphore.py
-9. sim_components.py .
+9. sim_components.py _.
 All of the files listed above are included in the project.
